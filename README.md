@@ -19,7 +19,7 @@ NOTE:  Non-code related files are not included in calculations or output.<br>
 
 ## Example bar chart, Distribution of code types
 
-<img src="barChartScan.png" height = "763" width="437"
+<img src="barChartScan.png" height = "437" width="763"
      alt="Missing image..."/>
      
 ## Technical info
